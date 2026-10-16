@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "bqplot-image-gl",
+  "versions": [
+    {
+      "commit": "cbea0e581007ec4e13d0262635efbe39ffb687cd",
+      "tag": "",
+      "parsed_at": "2026-10-16T02:53:02.696442+00:00"
+    }
+  ]
+}
